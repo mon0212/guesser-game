@@ -66,7 +66,6 @@ class Umpire
 		{
 			System.out.println("no one won the game");
 		}
-		
 	}
 }
 
